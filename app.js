@@ -119,10 +119,10 @@ function initDB() {
       jabatan:'Pengelola Keuangan', unit:'Bagian Keuangan', email:'dewi@kpu.go.id', hp:'08444444444',
       username:'dewi', password:'dewi123', role:'pegawai', status:'Aktif',
       avatar:'https://ui-avatars.com/api/?name=Dewi+Rahayu&background=6a1b9a&color=fff&size=80' },
-    { id:'u27', nip:'198501012010011001', nama:'Administrator KPU', golongan:'PNS', pangkat:'IVa',
-      jabatan:'Administrator Sistem', unit:'Sekretariat', email:'admin@kpu.go.id', hp:'08111111111',
-      username:'admin', password:'admin123', role:'admin', status:'Aktif',
-      avatar:'https://ui-avatars.com/api/?name=Admin+KPU&background=c62828&color=fff&size=80' }
+    { id:'u27', nip:'199707042025211022', nama:'Muhammad Syafii', golongan:'PPPK', pangkat:'V',
+      jabatan:'Operator Layanan Operasional', unit:'KPU Kab. Sarolangun', email:'Muhammadsyafii@kpu.go.id', hp:'08111111111',
+      username:'Syafii', password:'Syafii123', role:'pegawai', status:'Aktif',
+      avatar:'https://ui-avatars.com/api/?name=Muhammad+Syafii&background=c62828&color=fff&size=80' }
   ];
   DB.set('users', users);
 
