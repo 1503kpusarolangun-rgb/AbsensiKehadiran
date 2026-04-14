@@ -32,7 +32,7 @@ function initDB() {
       username:'dewi', password:'dewi123', role:'pegawai', status:'Aktif',
       avatar:'https://ui-avatars.com/api/?name=Dewi+Rahayu&background=6a1b9a&color=fff&size=80' },
     { id:'u5', nip:'198406292008011002', nama:'Mujiono', golongan:'PNS', pangkat:'IIIc',
-      jabatan:'Penata', unit:'KPU Kab. Sarolangun', email:'mujiono@kpu.go.id', hp:'08111111111',
+      jabatan:'Kasubbag Teknis dan Parhubmas', unit:'KPU Kab. Sarolangun', email:'mujiono@kpu.go.id', hp:'08111111111',
       username:'Mujiono', password:'Mujiono123', role:'pegawai', status:'Aktif',
       avatar:'https://ui-avatars.com/api/?name=Mujiono+KPU&background=c62828&color=fff&size=80' },
     { id:'u6', nip:'199001012015032001', nama:'Sri Tutut', golongan:'PNS', pangkat:'IIIa',
